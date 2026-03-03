@@ -7,4 +7,3 @@ Application mobile de recettes de cuisine permettant de g√©rer des favoris et d‚
 - React Native
 - Expo
 - [Redux Toolkit](https://redux-toolkit.js.org/)
-- [expo-av](https://docs.expo.dev/versions/latest/sdk/av/) (sons & musiques)
