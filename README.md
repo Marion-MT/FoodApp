@@ -10,6 +10,10 @@ Application mobile de recettes de cuisine permettant de gérer des favoris et d�
 
 ## Capture d'Ecran
 
-<img src="screenshots/foodapp01_HomeScreen.png" alt="Capture de l'écran Home" width="200" />
-<img src="screenshots/foodapp02_SearchScreen.png" alt="Capture de l'écran de recherche de recettes" width="200" />
-<img src="screenshots/foodapp03_RecipeScreen.png" alt="Capture de l'écran de recette" width="200" />
+<table>
+  <tr>
+    <td><img src="screenshots/foodapp01_HomeScreen.png" alt="Capture de l'écran Home" width="200" /></td>
+    <td><img src="screenshots/foodapp02_SearchScreen.png" alt="Capture de l'écran de recherche de recettes" width="200" /></td>
+    <td><img src="screenshots/foodapp03_RecipeScreen.png" alt="Capture de l'écran de recette" width="200" /></td>
+  </tr>
+</table>
